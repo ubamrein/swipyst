@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3a4832f08ccca8284e7e26ce4011dfb8fd69aba3939fcb237782f2cf05e79d81
-size 342
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Swipyst.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
